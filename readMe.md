@@ -8,7 +8,7 @@
 
 - tree
 
-    https://github.com/Aks32216/file-organizer/blob/main/screenshots/tree.png
+    ![tree](https://user-images.githubusercontent.com/56152715/168696052-876ffbe1-52e8-480f-8699-d360fdace7fc.png)
 
 - organize
 
