@@ -1,0 +1,15 @@
+{
+  "name": "organizer",
+  "version": "1.0.0",
+  "description": "<!-- Help -> execute -> node cli.js help -->     <!-- It will list all the commands available in this feature --> <!-- Tree -> execute -> node cli.js tree -->     <!-- It will print the tree structure of a given folder --> <!-- organize -> execute -> node cli.js organize -->     <!-- oranizes the file in a structured way -->",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "organizer":"cli.js"
+  }
+}
