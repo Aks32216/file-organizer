@@ -4,24 +4,16 @@
 <!-- Help -> execute -> node cli.js help -->
     <!-- It will list all the commands available in this feature -->
 
-    <p align="center">
-        <img src="screenshots/help.png" width="350" title="hover text">
-    </p>
+    ![alt text](https://github.com/Aks32216/file-organizer/blob/main/screenshots/help.png)
 
 <!-- Tree -> execute -> node cli.js tree -->
     <!-- It will print the tree structure of a given folder -->
 
-    <p align="center">
-        <img src="screenshots/tree.png" width="350" title="hover text">
-    </p>
+    ![alt text](https://github.com/Aks32216/file-organizer/blob/main/screenshots/tree.png)
 
 <!-- organize -> execute -> node cli.js organize -->
     <!-- oranizes the file in a structured way -->
 
-    <p align="center">
-        <img src="screenshots/before.png" width="350" title="hover text">
-    </p>
+    ![alt text](https://github.com/Aks32216/file-organizer/blob/main/screenshots/before.png)
 
-    <p align="center">
-        <img src="screenshots/after.png" width="350" title="hover text">
-    </p>
+    ![alt text](https://github.com/Aks32216/file-organizer/blob/main/screenshots/after.png)
