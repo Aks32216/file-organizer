@@ -1,19 +1,19 @@
 # File Organizer organizes the file
 
-# commands
-<!-- Help -> execute -> node cli.js help -->
-    <!-- It will list all the commands available in this feature -->
+### commands
 
-    https://github.com/Aks32216/file-organizer/blob/main/screenshots/help.png
+- help
+    ###### shows all the available commands
+    
+    ![help](https://user-images.githubusercontent.com/56152715/168694969-9091b682-e774-483e-b405-e9674002f07a.png)
 
-<!-- Tree -> execute -> node cli.js tree -->
-    <!-- It will print the tree structure of a given folder -->
+- tree
+    ###### Prints the tree structure of the path passed as an argument
 
-    https://github.com/Aks32216/file-organizer/blob/main/screenshots/tree.png
+    ![tree](https://user-images.githubusercontent.com/56152715/168696052-876ffbe1-52e8-480f-8699-d360fdace7fc.png)
 
-<!-- organize -> execute -> node cli.js organize -->
-    <!-- oranizes the file in a structured way -->
+- organize
+    ###### Organizes file based on their extension and put them in the respective folder
+   
+    ![after](https://user-images.githubusercontent.com/56152715/168696308-832015f7-ce14-4ab4-8a9a-f68216fc3c5e.png)
 
-    https://github.com/Aks32216/file-organizer/blob/main/screenshots/before.png
-
-    https://github.com/Aks32216/file-organizer/blob/main/screenshots/after.png
